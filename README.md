@@ -1,2 +1,2 @@
 # text_analyser
-Text analysis &amp; preprocessing
+Experiments in text analysis &amp; preprocessing
